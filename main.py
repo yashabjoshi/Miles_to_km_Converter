@@ -28,7 +28,7 @@ label1.grid(row=1, column=0)  # Place the label in the grid
 labelkm = Label(window, text="0")
 labelkm.grid(row=1, column=1)  # Place the label in the grid
 
-# Label for the unit "km"
+# Label for the unit "klm"
 label3 = Label(window, text="km")
 label3.grid(row=1, column=2)  # Place the label in the grid
 
